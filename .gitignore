@@ -1,6 +1,7 @@
-venv
-Ball3DImg
+﻿Ball3DImg
 test_code
 vae3DBall
+venv
 vae3DBallEval_ImgBuffer
-
+.idea
+*.pt
