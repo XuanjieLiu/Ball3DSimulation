@@ -22,7 +22,7 @@ LAST_H = 10
 LAST_W = 15
 
 transform = transforms.ToTensor()
-root = './Ball3DImg'
+root = '../Ball3DImg'
 RESULT_PATH = '../vae3DBall/recon/'
 train_data = datasets.ImageFolder(root, transform=transform)
 train_loader = torch.utils.data.DataLoader(train_data, batch_size=BATCH_SIZE, shuffle=True, num_workers=0)
