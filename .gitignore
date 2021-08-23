@@ -5,3 +5,4 @@ venv
 vae3DBallEval_ImgBuffer
 .idea
 *.pt
+code\__pycache__
