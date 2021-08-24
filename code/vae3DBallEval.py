@@ -1,4 +1,4 @@
-﻿from vae3DBall import VAE, load_tensor, MODEL_PATH, LATENT_CODE_NUM, LAST_CN_NUM, LAST_H, LAST_W, IMG_CHANNEL
+from vae3DBall import VAE, load_tensor, MODEL_PATH, LATENT_CODE_NUM, LAST_CN_NUM, LAST_H, LAST_W, IMG_CHANNEL
 from tkinter import *
 from PIL import Image, ImageTk
 from torchvision.utils import save_image

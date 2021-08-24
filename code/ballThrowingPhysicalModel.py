@@ -1,4 +1,4 @@
-﻿import math
+import math
 
 GRAVITY = 10.0
 BOUNCE_ENERGY_LOSS = 0.19
